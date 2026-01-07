@@ -1,13 +1,21 @@
 # GDIM32 In Class Activities
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
+
+# W1
+## Activity 1
+Table 5
+- Going to office hours and asking questions especially if you need help. Use the unity help center to look at concepts or different code to understand and how to use them to your advantage and what they actually do.
+- Also, looking at the pre-learning slides and asking questions if you have any and take notes on any concepts that you feel are important.
 
 
-Hit enter TWICE to create a new line.
+## Activity 2
+- Q1: 10
+- Q2: 2
+- Q3: Every update to the code hello world will be produced.
+- Q4: It is a monobehavior
+- Q5:At the start of the code it will produce x = 10.
+- Q6: 10 is the defined variable and the input and the x = 10 is the output and what is being printed out.
+- Q7: Transform has already been defined as another variable.
+- Q8: You need to change Transform to _playerTransform.
 
-
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
-
-
-Remove all placeholder text in order to get full credit for README file formatting.
+## Activity 3
+https://docs.google.com/document/d/15_HFzD7qHn72CA-2sku_BtfdMzhq6NBtRONPqSFgEHI/edit?usp=sharing
