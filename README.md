@@ -20,3 +20,14 @@ Table 5
 ## Activity 3
 https://docs.google.com/document/d/15_HFzD7qHn72CA-2sku_BtfdMzhq6NBtRONPqSFgEHI/edit?usp=sharing
 
+
+# W2
+## Activity 1
+![IMG_3867 jpg_10000](https://github.com/user-attachments/assets/6575fffe-39a6-43f9-b375-9b19a088b78a)
+
+# W3
+## Activity 0-2 
+Eric Wei
+
+## Activity 3
+

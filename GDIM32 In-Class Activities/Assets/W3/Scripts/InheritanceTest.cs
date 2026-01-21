@@ -1,4 +1,4 @@
-/*
+
 using UnityEngine;
 
 public class InheritanceTest : MonoBehaviour
@@ -7,7 +7,7 @@ public class InheritanceTest : MonoBehaviour
 	private void Start()
 	{
 		Player player = new Player();
-		Enemy enemy = new Enemy();
+        Enemy enemy = new Enemy();
 		Villager villager = new Villager();
 		
 		player.TalkToNpc(enemy);
@@ -32,14 +32,19 @@ public class Npc
 }
 
 // CHANGE THINGS IN VILLAGER...
-public class Villager
+public class Villager : Npc
 {
-	
-}
+	public virtual void Talk(string playerName)
+	{
+		Debug.Log("It's nice to meet you " + playerName);
+	}
 
-// CHANGE THINGS IN ENEMY...
-public class Enemy
-{
-	
+	// CHANGE THINGS IN ENEMY...
+	public class Enemy : Npc
+	{
+        public virtual void Talk(string playerName)
+		{
+			Debug.Log("Don't bother me" + playerName);
+		}
+	}
 }
-*/
