@@ -30,4 +30,5 @@ https://docs.google.com/document/d/15_HFzD7qHn72CA-2sku_BtfdMzhq6NBtRONPqSFgEHI/
 Eric Wei
 
 ## Activity 3
+![IMG_3895](https://github.com/user-attachments/assets/1274f8f4-3209-4b98-80f8-f779a1faf649)
 
