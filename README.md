@@ -38,3 +38,7 @@ Jeremy
 
 ## Activity 1
 The locator object only appears on one of the copies in the code because it is a singleton and it is only allowed to ever be one copy in the code forever. 
+
+## Activity 2
+![IMG_3917](https://github.com/user-attachments/assets/4fe2b6e8-a047-41a0-b879-d6a5438f53ab)
+
