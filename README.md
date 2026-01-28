@@ -42,3 +42,7 @@ The locator object only appears on one of the copies in the code because it is a
 ## Activity 2
 ![IMG_3917](https://github.com/user-attachments/assets/4fe2b6e8-a047-41a0-b879-d6a5438f53ab)
 
+## Activity 3 
+[https://github.com/Jpinson07/HW4/commit/67360a70b5240d004cf2754b464acac1d77b230e]
+I made the basis of my game by creating the main sprites and objects I will be using in the game. I created the scripts so I know how many scripts I will need to create the game.
+
