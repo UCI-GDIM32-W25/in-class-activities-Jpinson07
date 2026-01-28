@@ -32,3 +32,9 @@ Eric Wei
 ## Activity 3
 ![IMG_3895](https://github.com/user-attachments/assets/1274f8f4-3209-4b98-80f8-f779a1faf649)
 
+# W4
+## Activity 0
+Jeremy
+
+## Activity 1
+The locator object only appears on one of the copies in the code because it is a singleton and it is only allowed to ever be one copy in the code forever. 
