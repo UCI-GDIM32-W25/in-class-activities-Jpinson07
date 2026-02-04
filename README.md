@@ -46,3 +46,17 @@ The locator object only appears on one of the copies in the code because it is a
 [https://github.com/Jpinson07/HW4/commit/67360a70b5240d004cf2754b464acac1d77b230e]
 I made the basis of my game by creating the main sprites and objects I will be using in the game. I created the scripts so I know how many scripts I will need to create the game.
 
+#W5
+## Activity 1
+I think the design of these interfaces and abstract classes was really interesting especially since the interfaces were defined and then the abstract and interface classes were combined to call methods. I would keep it the same since the interface and abstract classes were defined first and then proceeded to be used in other public classes and call methods
+
+## Activity 2 
+The classes that represent Model is the inventory class, and Enemy class. The classes that represent view is dialogue and inventory, enemy stats and the classes that represent controller is player class. 
+
+## Activity 3
+We decided that the optimal strategy for Leo is to use a Model-View-Controller with C# events. The model aspect would be the playable characters and weapons that the player can be used but also the data that defines what happens after the player uses a skill to make that appear in game. The view aspect would be the scoreboard, the timer, the player count, however Leo wants to show what to press for skills and what weapons you can use or what's in your inventory. The controller aspect would be the player movement, the shooting and usage of the weapons themselves and the skills being used themselves.
+## Activity 4 
+Jingyi Cheng, Jamin Pinson, Ke-Chieh Chang
+[https://docs.google.com/document/d/1243b-56SntC6QbFu_Eii6tyaacd2RoO3u3ZMJNCXjdw/edit?tab=t.0#heading=h.khlj2whc254g]
+
+
