@@ -46,7 +46,7 @@ The locator object only appears on one of the copies in the code because it is a
 [https://github.com/Jpinson07/HW4/commit/67360a70b5240d004cf2754b464acac1d77b230e]
 I made the basis of my game by creating the main sprites and objects I will be using in the game. I created the scripts so I know how many scripts I will need to create the game.
 
-#W5
+# W5
 ## Activity 1
 I think the design of these interfaces and abstract classes was really interesting especially since the interfaces were defined and then the abstract and interface classes were combined to call methods. I would keep it the same since the interface and abstract classes were defined first and then proceeded to be used in other public classes and call methods
 
@@ -59,4 +59,13 @@ We decided that the optimal strategy for Leo is to use a Model-View-Controller w
 Jingyi Cheng, Jamin Pinson, Ke-Chieh Chang
 [https://docs.google.com/document/d/1243b-56SntC6QbFu_Eii6tyaacd2RoO3u3ZMJNCXjdw/edit?tab=t.0#heading=h.khlj2whc254g]
 
+# W6
+
+## Activity 1 
+Gizmos will help us see the direction of the player and the direction the player will face or what trajectory the entity will chase the player. It also will help see colliders that are invisible but are used as triggers to have certain events happen and occur.
+We can use profiler to help with seeing the colliders of the players and the entities and seeing what will happen if they interact and if bugs occur how to fix them. We can also use it to see what bugs are and occuring and if there are any performance issues.
+
+## Activity 2
+Attendance: Jamin Pinson, Ke-chieh Chang, Jingyi Cheng.
+[https://docs.google.com/document/d/1243b-56SntC6QbFu_Eii6tyaacd2RoO3u3ZMJNCXjdw/edit?usp=sharing]
 
