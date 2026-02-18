@@ -69,3 +69,16 @@ We can use profiler to help with seeing the colliders of the players and the ent
 Attendance: Jamin Pinson, Ke-chieh Chang, Jingyi Cheng.
 [https://docs.google.com/document/d/1243b-56SntC6QbFu_Eii6tyaacd2RoO3u3ZMJNCXjdw/edit?usp=sharing]
 
+# W7
+## Activity 1
+If the player gets to close to the duck the duck turns red. When the duck turns red the duck starts to follow the player. However, if the player gets a safe enough distance away the duck stops following the player.
+## Activity 2 
+Attendance: Jamin Pinson, Ke-chieh Chang, Jingyi Cheng.
+## Activity 3
+![IMG_4025](https://github.com/user-attachments/assets/a110b5a9-55dc-45a2-b5f9-6f83a996b77b)
+## Activity 4
+Working on lighting for the game
+## Activity 5
+[https://github.com/AVI-F4NG/GDIM32-Final/commit/22ac13f8e507497f6a36d4304b7400869885c9d3]
+I began to add the UI script for the game and added the player sprite while starting to build the UI script. With this script and gameobjects I am going to start piecing everything together.
+
