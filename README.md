@@ -82,3 +82,21 @@ Working on lighting for the game
 [https://github.com/AVI-F4NG/GDIM32-Final/commit/22ac13f8e507497f6a36d4304b7400869885c9d3]
 I began to add the UI script for the game and added the player sprite while starting to build the UI script. With this script and gameobjects I am going to start piecing everything together.
 
+# W8 
+## Activity 1
+We actually are able to use the post processing for the character's visibility especially since we are creating a horror game where the player's visibility diminishes.
+
+## Activity 2
+Attendance: Jamin Pinson, Ke-chieh Chang, Jingyi Cheng.
+
+## Activity 3
+Observation: we only hinted the playtesters about the main character's WASD movement when the playtest started. When the game started, the playtesters quickly understand that they should try to run away from the monster that chases them right from the start. Our playtesting group actually spontaneously discovers that they can sprint by holding left shift (which they said is a common feature in games), and they also successfully run away from the monster after using sprinting, which is what we intended to do. All playtesters and LA found the monster model to be terrifying, which is exactly what we are trying to achieve.
+
+## Activity 4
+I am not halfway through but I definitely think I can finish everything in time I just have to work on all of my tasks more efficiently.
+
+## Activity 5
+[https://github.com/AVI-F4NG/GDIM32-Final/commit/5dd72beb2642ae405fd1e9c345ac0fae419745f0]
+I created the script for the beacon and the start of the fear meter which I will work on this week and complete and also create the particle system for snow.
+
+
