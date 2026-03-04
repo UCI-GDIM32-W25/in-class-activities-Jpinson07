@@ -99,4 +99,46 @@ I am not halfway through but I definitely think I can finish everything in time 
 [https://github.com/AVI-F4NG/GDIM32-Final/commit/5dd72beb2642ae405fd1e9c345ac0fae419745f0]
 I created the script for the beacon and the start of the fear meter which I will work on this week and complete and also create the particle system for snow.
 
+# W8 
+## Activity 1
+We can use the dialogue branching system when prompting the player with the scri
+
+## Activity 2: 
+Attendance: Jamin Pinson, Ke-chieh Chang, Jingyi Cheng.
+
+## Activity 3:
+We got playtested by our buddy team, TAs, and the professor! Hurray! For this round of playtest, we received feedbacks about how our game UI is off on the itch page (which is also a device issue because it looks off on my (team captain) laptop but not teammate's). Besides that, playtesters mostly understood the flow of the game and complete quest 1 with only some tiny hints. Before the final, we will tackle the problems about UI (that maintain across devices' itch pages), quest guides (some playtesters couldn't find the lantern without hinting; general interaction distance with objects; and so on), and player experience (modify player and monster speed; modify the interaction of player vs monster). We should also make use of the large-scaled map we've made. 
+
+## Activity 4
+Completed tasks:
+Implement essential assets
+Built actual game-sized terrain
+3D Models & animation
+Interactable & branched dialogues
+Lantern & pickup system (quest 1✅)
+Lantern stun skill
+Ember stone (quest 2) model
+Audio track
+Camera visual effects (post-processing + snowing)
+—————————————————
+Current to-do:
+Massive UI modification: —> Jeremy
+Improve offset problem, increase font size, scalible font size across devices
+
+Improve player experience: --> Jamin 
+Refine movement speed for player & monster. Adjust their position to make use of our large map. Increase visibility of lantern. Etc..
+
+Improve player experience part 2: —> Averin
+Create setting mode that allows player to customize mouse sensibility. Refine player script for better camera perspective shift.
+
+Quest 2:
+Build the script and necessary components
+
+Fear meter:
+Build the script and necessary components 
+We are 60-70% done in term of game functions, but we still need A LOT of work in refining the details. I need to add the fear meter and pathfinder for the monster and also add the beacon and matches in the map
+
+## Activity 5
+[https://github.com/AVI-F4NG/GDIM32-Final/commit/10d8641a0fb164a7a379d86e9b52f00cfa2f162a]
+I created the fear meter script so we can now start to create the UI for the fear meter or the player's health. I also created the Monster FOV that causes the fear meter to go up as the player is within the monster's FOV.
 
