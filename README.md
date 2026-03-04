@@ -99,7 +99,7 @@ I am not halfway through but I definitely think I can finish everything in time 
 [https://github.com/AVI-F4NG/GDIM32-Final/commit/5dd72beb2642ae405fd1e9c345ac0fae419745f0]
 I created the script for the beacon and the start of the fear meter which I will work on this week and complete and also create the particle system for snow.
 
-# W8 
+# W9 
 ## Activity 1
 We can use the dialogue branching system when prompting the player with the scri
 
