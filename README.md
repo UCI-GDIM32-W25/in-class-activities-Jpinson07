@@ -142,3 +142,12 @@ We are 60-70% done in term of game functions, but we still need A LOT of work in
 [https://github.com/AVI-F4NG/GDIM32-Final/commit/10d8641a0fb164a7a379d86e9b52f00cfa2f162a]
 I created the fear meter script so we can now start to create the UI for the fear meter or the player's health. I also created the Monster FOV that causes the fear meter to go up as the player is within the monster's FOV.
 
+# W10
+## Activity 1
+Attendance: Jamin Pinson, Ke-chieh Chang, Jingyi Cheng.
+
+## Activity 2
+Playtested by TA! The game itself doesn't change much from last week. Playtester observed and appreciated how the typing effect of dialogue is cool, and how we could improve more on the way that monster approaches the player. We are currently trying to fix the vector operation of monster's moving behavior to make it more active in chasing the player.
+
+## Activity 3
+In charge of the audio and UI updates and I have been working on that to ensure the audio sounds good and clean.
